@@ -1,12 +1,36 @@
 ,County,Percent Developable Acres Near Transit,Percent Developable Parcels Near Transit
-0.0,Alameda County,46.44%,67.31%
-2.0,Contra Costa County,11.61%,26.53%
-4.0,Fresno County,3.22%,21.11%
-10.0,Los Angeles County,31.93%,48.75%
-16.0,Orange County,64.39%,19.73%
-18.0,Riverside County,9.99%,20.94%
-19.0,Sacramento County,21.56%,11.76%
-20.0,San Bernardino County,14.93%,49.57%
-21.0,San Diego County,40.35%,57.89%
-22.0,San Francisco County,100.0%,100.0%
-27.0,Santa Clara County,31.7%,85.39%
+0,Alameda County,46.44%,67.31%
+1,Butte County,0.34%,27.78%
+2,Contra Costa County,11.61%,26.53%
+3,Del Norte County,100.0%,100.0%
+4,Fresno County,3.22%,21.11%
+5,Humboldt County,1.64%,29.63%
+6,Kern County,0.76%,11.11%
+7,Kings County,3.0%,5.26%
+8,Lake County,2.17%,27.27%
+9,Lassen County,2.49%,6.25%
+10,Los Angeles County,31.93%,48.75%
+11,Marin County,12.65%,13.51%
+12,Merced County,1.97%,12.82%
+13,Mono County,86.88%,50.0%
+14,Monterey County,0.27%,6.19%
+15,Napa County,0.21%,1.01%
+16,Orange County,64.39%,19.73%
+17,Placer County,0.19%,2.17%
+18,Riverside County,9.99%,20.94%
+19,Sacramento County,21.56%,11.76%
+20,San Bernardino County,14.93%,49.57%
+21,San Diego County,40.35%,57.89%
+22,San Francisco County,100.0%,100.0%
+23,San Joaquin County,37.29%,18.18%
+24,San Luis Obispo County,1.88%,68.42%
+25,San Mateo County,8.03%,33.9%
+26,Santa Barbara County,0.99%,14.13%
+27,Santa Clara County,31.7%,85.39%
+28,Shasta County,63.61%,4.55%
+29,Siskiyou County,1.7%,18.18%
+30,Sonoma County,8.57%,39.74%
+31,Stanislaus County,7.14%,35.71%
+32,Tulare County,17.83%,11.76%
+33,Ventura County,8.76%,10.26%
+34,Yolo County,31.59%,48.28%
